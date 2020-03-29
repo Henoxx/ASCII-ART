@@ -9,6 +9,9 @@ Luckily got an answer with in 5 minutes(silly me :[] ). Thank you stuckoverflow 
 Both the scraper and printer have their own issues. I addressed some of the problems at the bottom of each script. Since I haven't referred any ascii art scraper and printer scripts, I am very proud to have this as a first project. I will be very happy to have a feedback from you. Thanks!
 
 March 29, 2020
+
 Stay Home, Be safe!
+
 Henoxx
+
 henoxx@qq.com
